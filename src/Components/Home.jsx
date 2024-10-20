@@ -1,12 +1,8 @@
 // Home.js
 import React from "react";
-import hm from "../Assets/H.jpg";
 import "./Components.css";
 
 function Home() {
-  const Home = {
-    backgroundImage: `url(${hm})`,
-  };
   return (
     <section className="bg-[url('/src/Assets/H.jpg')] flex justify-center items-center w-full	h-screen flex-col bg-cover">
       <h1 className="text-8xl text-white font-bold tracking-wider">
