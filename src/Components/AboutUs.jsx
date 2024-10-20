@@ -10,7 +10,7 @@ import mythreya from "../Assets/mythreya.jpg";
 function AboutUs() {
   return (
     <div className="w-full h-screen bg-[url('/src/Assets/2.jpg')]">
-      <div className="text-center text-6xl font-bold">Who we are?</div>
+      <div className="text-center text-6xl font-bold mb-20">Who we are?</div>
       <div className="flex h-2/4 items-center justify-center gap-32">
         <div>
           <div></div>

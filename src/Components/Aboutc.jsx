@@ -3,7 +3,7 @@ import React from "react";
 export default function Aboutc() {
   return (
     <div className="w-full h-screen">
-      <div className="w-full h-1/2 bg-[url('/src/Assets/H.jpg')]"></div>
+      <div className="w-full h-1/2 bg-[url('/src/Assets/ais.avif')] bg-no-repeat bg-cover bg-center"></div>
       <div className="w-full h-1/2 bg-[url('/src/Assets/2.jpg')] bg-cover bg-no-repeat flex gap-32 justify-center items-center">
         <h2 className="text-6xl font-bold uppercase flex-none">
           about company
