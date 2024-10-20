@@ -4,7 +4,7 @@ import image from "../Assets/evolve-image.jpg";
 export default function Msg() {
   return (
     <div className="px-32 flex w-full h-screen justify-center items-center gap-80 bg-[url('/src/Assets/2.jpg')]">
-      <div className="w-3/5">
+      <div className="w-3/6">
         <h2 className="uppercase text-6xl font-bold pb-10">
           message from our founders
         </h2>

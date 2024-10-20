@@ -15,7 +15,7 @@ export default function ViMi() {
         </div>
         <div>
           <h2 className="text-6xl font-bold pb-10 uppercase">mission</h2>
-          <p className="text-lg w-3/5 text-center">
+          <p className="text-lg w-3/6 text-center">
             Our mission is to bridge the gap between businesses and cutting-edge
             AI technology. We provide expert AI model integration services,
             helping companies overcome resource or skill gaps to implement
