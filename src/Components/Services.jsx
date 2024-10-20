@@ -10,7 +10,7 @@ export default function Services() {
       <div className="flex gap-1 w-full justify-center">
         <div class="block max-w-sm p-6 bg-white border border-gray-200 rounded-sm mt-10">
           <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 flex items-center">
-          <img src={merge} alt="" className="w-12"/>
+            <img src={merge} alt="" className="w-12" />
             Custom AI Integration:{" "}
           </h5>
           <p class="font-normal text-gray-700 ">
@@ -21,7 +21,7 @@ export default function Services() {
         </div>
         <div class="block max-w-sm p-6 bg-gray-100 border border-gray-200 rounded-sm mt-5">
           <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 flex items-center">
-        <img src={tren} alt="" className="w-12"/>
+            <img src={tren} alt="" className="w-12 mr-5" />
             AI-Powered Growth Recommendations:{" "}
           </h5>
           <p class="font-normal text-gray-700 ">
@@ -32,7 +32,7 @@ export default function Services() {
         </div>
         <div class="block max-w-sm p-6 bg-black border border-gray-200 rounded-sm">
           <h5 class="mb-2 text-2xl font-bold tracking-tight text-white flex items-center">
-        <img src={simpli} alt="" className="w-12"/>
+            <img src={simpli} alt="" className="w-12 mr-3 -rotate-90" />
             Data Simplification with AI:{" "}
           </h5>
           <p class="font-normal text-gray-300 ">
